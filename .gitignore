@@ -1,2 +1,5 @@
 #local files
 *.env.local
+
+#production file
+*.env.production.local
